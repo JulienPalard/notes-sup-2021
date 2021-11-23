@@ -59,5 +59,4 @@ Supprime un dossier/fichier **définitivement** (pas de corveille (faites vos sa
 Cherche un mot dans les lignes du fichier
     * `grep 163.5.68.1 /var/log/nginx/access.log` = cherche les accès d'une IP dans un fichier de log
 
-
-
+petite modification
